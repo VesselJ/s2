@@ -19,7 +19,7 @@ owner:
   instagram:      
   lastfm:         
   tumblr:         
-  hmfaysalsocial: 1
+  # hmfaysalsocial: 1
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
@@ -34,15 +34,15 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: About
+  #- title: About
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Setup
+  #- title: Setup
     url: /theme-setup/
-  - title: T-Details
+  #- title: T-Details
     url: /technical-details/
-  - title: The Evil-Genius
+  #- title: The Evil-Genius
     url: https://vesselj.github.io/s2/
     external: true
 
