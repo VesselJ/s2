@@ -7,14 +7,14 @@ url:              https://vesselj.github.io/s2/
 # Owner/author information
 owner:
   name:           BoringHare
-  avatar:         1.png
+  avatar:         1.PNG
   bio:            "H"
   email:          1@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   twitter:        1
   facebook:       1
-  github:         1
+  #github:         1
   linkedin:       
   instagram:      
   lastfm:         
@@ -33,7 +33,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Home
-    url: /
+    url: https://vesselj.github.io/s2/
   #- title: About
     url: /about/
   - title: Articles
