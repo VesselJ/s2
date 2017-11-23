@@ -33,7 +33,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Home
-    url: /articles/
+    url: https://vesselj.github.io/s2/
   #- title: About
     #url: /about/
   - title: Articles
@@ -43,7 +43,7 @@ links:
   #- title: T-Details
    # url: /technical-details/
   #- title: The Evil-Genius
-    url: https://vesselj.github.io/s2/
+   # url: https://vesselj.github.io/s2/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
