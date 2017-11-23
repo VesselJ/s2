@@ -33,7 +33,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Home
-    url: https://vesselj.github.io/s2/
+    url: /
   #- title: About
     #url: /about/
   - title: Articles
@@ -44,7 +44,7 @@ links:
    # url: /technical-details/
   #- title: The Evil-Genius
    # url: https://vesselj.github.io/s2/
-    external: true
+   # external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai
